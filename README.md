@@ -1,7 +1,7 @@
 ## TODO
 
 - prompt engineering
-  - [ ] embedding tools info into prompt automatically
+  - [x] embedding tools info into prompt automatically
 - tools
   - [ ] search
 - foundation
